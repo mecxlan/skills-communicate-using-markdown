@@ -14,3 +14,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Headings added
+- [x] Image added 
+- [x] Code snippets added
+- [ ] Project summition
